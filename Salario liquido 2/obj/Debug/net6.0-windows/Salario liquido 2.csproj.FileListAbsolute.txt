@@ -1,0 +1,36 @@
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\bin\Debug\net6.0-windows\Salario liquido 2.exe
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\bin\Debug\net6.0-windows\Salario liquido 2.deps.json
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\bin\Debug\net6.0-windows\Salario liquido 2.runtimeconfig.json
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\bin\Debug\net6.0-windows\Salario liquido 2.dll
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\bin\Debug\net6.0-windows\Salario liquido 2.pdb
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.dll
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\refint\Salario liquido 2.dll
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.pdb
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\ref\Salario liquido 2.dll
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario_liquido_2.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario_liquido_2.cadastro.resources
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\bin\Debug\net6.0-windows\Salario liquido 2.exe
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\bin\Debug\net6.0-windows\Salario liquido 2.deps.json
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\bin\Debug\net6.0-windows\Salario liquido 2.runtimeconfig.json
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\bin\Debug\net6.0-windows\Salario liquido 2.dll
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\bin\Debug\net6.0-windows\Salario liquido 2.pdb
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario_liquido_2.cadastro.resources
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario_liquido_2.Properties.Resources.resources
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.dll
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\refint\Salario liquido 2.dll
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.pdb
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\Salario liquido 2.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\OneDrive_2023-10-27 (1)\aula 20_10_2023\Salario liquido 2\Salario liquido 2\obj\Debug\net6.0-windows\ref\Salario liquido 2.dll
